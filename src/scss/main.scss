@@ -2,8 +2,12 @@
 @import 'modules/variable';
 @import 'modules/mixin';
 
+// Vendors
+@import 'vendors/bootstrap.min';
+
 // Layouts
 @import 'layouts/page';
 
 // Components
 @import 'components/global';
+@import 'components/form';
